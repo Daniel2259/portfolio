@@ -108,7 +108,7 @@ section::before {
     grid-area: work-6;
 }
 #work-6:hover::after {
-    content: 'Accounting'
+    content: 'Profesi'
 }
 
 .contact {
